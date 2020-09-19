@@ -1,5 +1,5 @@
 [package]
-name = "device-detector"
+name = "device-babysitter"
 version = "0.1.0"
 authors = ["Zeyi Fan <zeyi@fb.com>"]
 edition = "2018"
